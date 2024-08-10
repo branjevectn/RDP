@@ -1,6 +1,6 @@
 (function ($) {
 	
-	"use strict";
+	fs"use strict";
 
 	// Header Type = Fixed
   $(window).scroll(function() {
